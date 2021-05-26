@@ -1,0 +1,4 @@
+Hamburger 15
+Cheeseburger 15
+Mici cu mustar 0
+Total: 30

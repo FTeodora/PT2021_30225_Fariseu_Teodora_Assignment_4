@@ -1,0 +1,4 @@
+Hamburger 15
+Cartofi prajiti 3
+Happy Meal 10
+Total: 28

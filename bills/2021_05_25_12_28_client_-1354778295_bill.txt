@@ -1,0 +1,4 @@
+Hamburger 15
+Cheeseburger 15
+Happy meal 10
+Total: 40

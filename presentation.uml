@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>presentation</OriginalElement>
+  <nodes>
+    <node x="814.8690476190475" y="1816.5">presentation.controller.OptionsController.RefreshButtonListener</node>
+    <node x="684.202380952381" y="1953.0">presentation.controller.ShoppingCartController.CommitMenuListener</node>
+    <node x="1200.3690476190475" y="1591.0">presentation.controller.OptionsController</node>
+    <node x="364.9999999999999" y="1953.0">presentation.controller.CreateAccountController.AddAccountListener</node>
+    <node x="366.9999999999999" y="1828.5">presentation.controller.CreateAccountController</node>
+    <node x="0.0" y="2753.0">presentation.view.utility.InputField</node>
+    <node x="2272.0" y="2581.0">presentation.controller.dialogueControllers.SelectFiltersController.Search</node>
+    <node x="0.0" y="2455.0">presentation.view.utility.SearchProductBar</node>
+    <node x="1179.0" y="2581.0">presentation.controller.dialogueControllers.ReportController.ClientsMinTimeOrdered</node>
+    <node x="2553.0" y="2581.0">presentation.controller.dialogueControllers.CreateItemController.AddButtonListener</node>
+    <node x="1964.202380952381" y="1953.0">presentation.controller.ShoppingCartController.CommitOrderListener</node>
+    <node x="361.0" y="2626.0">presentation.controller.LogInController.LogInButtonListener</node>
+    <node x="1435.0" y="2581.0">presentation.controller.dialogueControllers.ReportController.HourIntervalListener</node>
+    <node x="0.0" y="1293.0">presentation.view.windows.userWindows.AdminWindow</node>
+    <node x="2567.0" y="2455.0">presentation.controller.dialogueControllers.CreateItemController</node>
+    <node x="1562.25" y="0.0">presentation.view.windows.AppWindow</node>
+    <node x="2245.202380952381" y="1591.0">presentation.view.utility.WindowPanel</node>
+    <node x="1991.0" y="2581.0">presentation.controller.dialogueControllers.ReportController.MinTimesOrdered</node>
+    <node x="1452.202380952381" y="1953.0">presentation.controller.ShoppingCartController.RefreshAdmin</node>
+    <node x="763.25" y="599.0">presentation.view.windows.OptionWindow</node>
+    <node x="1079.25" y="489.0">presentation.view.windows.dialogues.SelectFilters</node>
+    <node x="1708.202380952381" y="1953.0">presentation.controller.ShoppingCartController.ToggleButtonListener</node>
+    <node x="792.0" y="2753.0">presentation.view.utility.TextButton</node>
+    <node x="0.0" y="1591.0">presentation.view.utility.cassettes.Cassette</node>
+    <node x="579.0" y="1392.5">presentation.view.windows.userWindows.EmployeeWindow</node>
+    <node x="1710.25" y="522.0">presentation.view.windows.dialogues.CreateItem</node>
+    <node x="1574.202380952381" y="1816.5">presentation.controller.OptionsController.BackButtonListener</node>
+    <node x="2009.25" y="566.0">presentation.view.windows.dialogues.ReportChooser</node>
+    <node x="898.0" y="2603.0">presentation.controller.dialogueControllers.CreateMenuController.ConfirmTitle</node>
+    <node x="269.0" y="902.0">presentation.view.windows.userWindows.UserWindow</node>
+    <node x="617.0" y="2626.0">presentation.controller.LogInController.NewAccountListener</node>
+    <node x="1330.202380952381" y="1794.0">presentation.controller.ShoppingCartController</node>
+    <node x="566.0" y="2753.0">presentation.view.utility.cassettes.OptionButton</node>
+    <node x="508.5" y="2455.0">presentation.controller.LogInController</node>
+    <node x="303.0" y="1381.0">presentation.view.windows.userWindows.ClientWindow</node>
+    <node x="2274.0" y="2455.0">presentation.controller.dialogueControllers.SelectFiltersController</node>
+    <node x="4.0" y="2290.0">presentation.view.utility.cassettes.ProductWindow</node>
+    <node x="1070.8690476190475" y="1828.5">presentation.controller.userControllers</node>
+    <node x="912.0" y="2455.0">presentation.controller.dialogueControllers.CreateMenuController</node>
+    <node x="1830.202380952381" y="1828.5">presentation.controller.MenuProductsController</node>
+    <node x="1208.0" y="1023.0">presentation.view.windows.userWindows.MenuProductsWindow</node>
+    <node x="1391.25" y="610.0">presentation.view.windows.dialogues.ConfirmTitleDialogue</node>
+    <node x="940.202380952381" y="1953.0">presentation.controller.ShoppingCartController.RefreshClient</node>
+    <node x="613.0" y="968.0">presentation.view.windows.userWindows.ShoppingCart</node>
+    <node x="932.0" y="979.0">presentation.view.windows.CreateAccountWindow</node>
+    <node x="1196.202380952381" y="1953.0">presentation.controller.ShoppingCartController.RemoveFromCartListener</node>
+    <node x="301.0" y="2753.0">presentation.view.utility.GradientPanel</node>
+    <node x="1604.0" y="2455.0">presentation.controller.dialogueControllers.ReportController</node>
+    <node x="2305.25" y="544.0">presentation.view.windows.LogInWindow</node>
+    <node x="1691.0" y="2581.0">presentation.controller.dialogueControllers.ReportController.ProductsOrderedInADayListener</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="presentation.controller.OptionsController.BackButtonListener" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-27.0" />
+      <point x="1692.202380952381" y="1764.0" />
+      <point x="1348.1190476190475" y="1764.0" />
+      <point x="49.25" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.ReportController.MinTimesOrdered" target="presentation.controller.dialogueControllers.ReportController">
+      <point x="0.0" y="-27.0" />
+      <point x="2109.0" y="2551.0" />
+      <point x="1758.0" y="2551.0" />
+      <point x="66.0" y="38.0" />
+    </edge>
+    <edge source="presentation.controller.CreateAccountController.AddAccountListener" target="presentation.controller.CreateAccountController">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="presentation.controller.LogInController.NewAccountListener" target="presentation.controller.LogInController">
+      <point x="0.0" y="-27.0" />
+      <point x="735.0" y="2601.0" />
+      <point x="656.25" y="2601.0" />
+      <point x="49.25" y="60.5" />
+    </edge>
+    <edge source="presentation.view.windows.dialogues.SelectFilters" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-181.5" />
+      <point x="1225.25" y="459.0" />
+      <point x="1628.75" y="459.0" />
+      <point x="-66.5" y="214.5" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.AdminWindow" target="presentation.view.windows.userWindows.UserWindow">
+      <point x="0.0" y="-126.5" />
+      <point x="141.5" y="1268.0" />
+      <point x="323.0" y="1268.0" />
+      <point x="-108.0" y="170.5" />
+    </edge>
+    <edge source="presentation.view.windows.dialogues.ConfirmTitleDialogue" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-60.5" />
+      <point x="1540.75" y="469.0" />
+      <point x="1673.0833333333333" y="469.0" />
+      <point x="-22.166666666666742" y="214.5" />
+    </edge>
+    <edge source="presentation.controller.MenuProductsController" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-15.0" />
+      <point x="1942.202380952381" y="1754.0" />
+      <point x="1380.9523809523807" y="1754.0" />
+      <point x="82.08333333333326" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.RefreshAdmin" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="1570.202380952381" y="1933.0" />
+      <point x="1460.8690476190477" y="1933.0" />
+      <point x="18.666666666666742" y="49.5" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.UserWindow" target="presentation.view.windows.OptionWindow">
+      <point x="0.0" y="-170.5" />
+      <point x="431.0" y="872.0" />
+      <point x="800.25" y="872.0" />
+      <point x="-111.0" y="71.5" />
+    </edge>
+    <edge source="presentation.view.utility.cassettes.ProductWindow" target="presentation.view.utility.cassettes.Cassette">
+      <point x="0.0" y="-60.0" />
+      <point x="0.0" y="324.5" />
+    </edge>
+    <edge source="presentation.controller.userControllers" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-15.0" />
+      <point x="1178.8690476190475" y="1774.0" />
+      <point x="1282.4523809523807" y="1774.0" />
+      <point x="-16.416666666666742" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.ReportController.ClientsMinTimeOrdered" target="presentation.controller.dialogueControllers.ReportController">
+      <point x="0.0" y="-27.0" />
+      <point x="1297.0" y="2551.0" />
+      <point x="1626.0" y="2551.0" />
+      <point x="-66.0" y="38.0" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.SelectFiltersController.Search" target="presentation.controller.dialogueControllers.SelectFiltersController">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.CreateMenuController.ConfirmTitle" target="presentation.controller.dialogueControllers.CreateMenuController">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="presentation.view.windows.LogInWindow" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-126.5" />
+      <point x="2430.75" y="449.0" />
+      <point x="1806.0833333333335" y="449.0" />
+      <point x="110.83333333333348" y="214.5" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.ReportController.ProductsOrderedInADayListener" target="presentation.controller.dialogueControllers.ReportController">
+      <point x="0.0" y="-27.0" />
+      <point x="1831.0" y="2561.0" />
+      <point x="1714.0" y="2561.0" />
+      <point x="22.0" y="38.0" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.ClientWindow" target="presentation.view.windows.userWindows.UserWindow">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="170.5" />
+    </edge>
+    <edge source="presentation.view.windows.CreateAccountWindow" target="presentation.view.windows.OptionWindow">
+      <point x="0.0" y="-93.5" />
+      <point x="1060.0" y="882.0" />
+      <point x="948.25" y="882.0" />
+      <point x="37.0" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.CreateItemController.AddButtonListener" target="presentation.controller.dialogueControllers.CreateItemController">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.RemoveFromCartListener" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="1314.202380952381" y="1933.0" />
+      <point x="1423.5357142857142" y="1933.0" />
+      <point x="-18.666666666666742" y="49.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.CommitMenuListener" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="802.202380952381" y="1913.0" />
+      <point x="1348.8690476190477" y="1913.0" />
+      <point x="-93.33333333333326" y="49.5" />
+    </edge>
+    <edge source="presentation.controller.LogInController.LogInButtonListener" target="presentation.controller.LogInController">
+      <point x="0.0" y="-27.0" />
+      <point x="479.0" y="2601.0" />
+      <point x="557.75" y="2601.0" />
+      <point x="-49.25" y="60.5" />
+    </edge>
+    <edge source="presentation.view.windows.OptionWindow" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-71.5" />
+      <point x="911.25" y="449.0" />
+      <point x="1584.4166666666667" y="449.0" />
+      <point x="-110.83333333333326" y="214.5" />
+    </edge>
+    <edge source="presentation.controller.dialogueControllers.ReportController.HourIntervalListener" target="presentation.controller.dialogueControllers.ReportController">
+      <point x="0.0" y="-27.0" />
+      <point x="1553.0" y="2561.0" />
+      <point x="1670.0" y="2561.0" />
+      <point x="-22.0" y="38.0" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.ShoppingCart" target="presentation.view.windows.OptionWindow">
+      <point x="0.0" y="-104.5" />
+      <point x="762.5" y="882.0" />
+      <point x="874.25" y="882.0" />
+      <point x="-37.0" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.CreateAccountController" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-15.0" />
+      <point x="482.9999999999999" y="1754.0" />
+      <point x="1216.7857142857142" y="1754.0" />
+      <point x="-82.08333333333326" y="71.5" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.MenuProductsWindow" target="presentation.view.windows.OptionWindow">
+      <point x="0.0" y="-49.5" />
+      <point x="1304.0" y="872.0" />
+      <point x="1022.25" y="872.0" />
+      <point x="111.0" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-49.5" />
+      <point x="1442.202380952381" y="1774.0" />
+      <point x="1315.2857142857142" y="1774.0" />
+      <point x="16.416666666666742" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.CommitOrderListener" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="2082.2023809523807" y="1913.0" />
+      <point x="1535.5357142857142" y="1913.0" />
+      <point x="93.33333333333326" y="49.5" />
+    </edge>
+    <edge source="presentation.view.windows.userWindows.EmployeeWindow" target="presentation.view.windows.userWindows.UserWindow">
+      <point x="0.0" y="-27.0" />
+      <point x="690.5" y="1268.0" />
+      <point x="539.0" y="1268.0" />
+      <point x="108.0" y="170.5" />
+    </edge>
+    <edge source="presentation.view.windows.dialogues.ReportChooser" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-104.5" />
+      <point x="2147.25" y="459.0" />
+      <point x="1761.75" y="459.0" />
+      <point x="66.5" y="214.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.RefreshClient" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="1058.202380952381" y="1923.0" />
+      <point x="1386.202380952381" y="1923.0" />
+      <point x="-56.0" y="49.5" />
+    </edge>
+    <edge source="presentation.controller.OptionsController.RefreshButtonListener" target="presentation.controller.OptionsController">
+      <point x="0.0" y="-27.0" />
+      <point x="932.8690476190475" y="1764.0" />
+      <point x="1249.6190476190475" y="1764.0" />
+      <point x="-49.25" y="71.5" />
+    </edge>
+    <edge source="presentation.controller.ShoppingCartController.ToggleButtonListener" target="presentation.controller.ShoppingCartController">
+      <point x="0.0" y="-27.0" />
+      <point x="1826.202380952381" y="1923.0" />
+      <point x="1498.202380952381" y="1923.0" />
+      <point x="56.0" y="49.5" />
+    </edge>
+    <edge source="presentation.view.windows.dialogues.CreateItem" target="presentation.view.windows.AppWindow">
+      <point x="0.0" y="-148.5" />
+      <point x="1849.75" y="469.0" />
+      <point x="1717.4166666666667" y="469.0" />
+      <point x="22.166666666666742" y="214.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3534208707671044" x="1394.4999999999998" y="1437.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

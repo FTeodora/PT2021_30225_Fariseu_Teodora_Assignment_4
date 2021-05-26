@@ -1,0 +1,2 @@
+Clients who ordered at least 10 times  and had at an order of at least 1
+Client no.2

@@ -1,0 +1,3 @@
+Clients who ordered at least 11 times  and had at an order of at least 2
+Client no.2
+Client no.5

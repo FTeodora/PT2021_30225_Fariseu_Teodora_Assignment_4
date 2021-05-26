@@ -1,0 +1,5 @@
+Items ordered at least 1 times 
+Hamburger ordered 2 times
+McPuisor ordered 3 times
+Cheeseburger ordered 2 times
+Mici cu mustar ordered 2 times
