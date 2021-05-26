@@ -58,6 +58,7 @@ public class AdminController extends UserController {
                     ioException.printStackTrace();
                 }
                 service.setPreferredPath(i.getSelectedFile().getParentFile());
+                Serializator.writeFile(service);
             }
         }
     }
